@@ -1,0 +1,82 @@
+---
+author: yoavshapira
+comments: true
+date: 2012-11-15 21:25:00+00:00
+layout: post
+link: http://blog.yoavshapira.com/2012/11/15/happier/
+slug: happier
+title: Happier
+wordpress_id: 982
+categories:
+- happier
+---
+
+Before reading this post, think about something that made you happier today. Maybe it was a good experience, good food, a funny joke from a friend or colleague, a decent workout, some positive surprise in the mail, or something else...  
+  
+Did that make you smile? I hope so. Do you do the above enough? Probably not. Most people don't.  
+  
+I've joined an awesome software startup called [Happier](http://happier.com/) as their chief technology officer (CTO). This blog posts explains why and how it came about.  
+  
+
+
+[![](https://sphotos-b.xx.fbcdn.net/hphotos-ash3/552135_277922295650607_41000525_n.jpg)](https://sphotos-b.xx.fbcdn.net/hphotos-ash3/552135_277922295650607_41000525_n.jpg)
+
+  
+  
+Earlier this year, I wrote about [the end of my previous job](http://yoavs.blogspot.com/2012/04/life-is-marathon-not-sprint.html), and then I went on a [trip around the world](http://yoavs.blogspot.com/search/label/rtw2012). The trip afforded me some time for reflection.  
+  
+During the trip, I decided I'd move to Israel afterwards, in order to spend more time with my family. The plan was to come back to Boston, help a few companies as a consultant while I rent out my place here, find a place in Israel ([Tel Aviv](http://en.wikipedia.org/wiki/Tel_Aviv) specifically), handle the logistics, and move by the end of 2012.  
+  
+Literally a couple of days before getting on the plane to Israel for October, a month dedicated to working with a couple of candidate companies I really liked, as well as finding an apartment, I was introduced to Happier's co-founder and CEO, [**Nataly Kogan**](http://www.linkedin.com/in/natalykogan).  
+  
+The introducer, a mutual friend, knew I was heading for Israel. The introduction was more about me helping Nataly / Happier find other developers. When I clicked on the web site and started reading about the company, my jaw dropped.  
+  
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" ><tbody ><tr >
+<td style="text-align:center;" >[![](https://sphotos-b.xx.fbcdn.net/hphotos-ash3/622752_289457634497073_1209107517_o.jpg)](https://sphotos-b.xx.fbcdn.net/hphotos-ash3/622752_289457634497073_1209107517_o.jpg)
+</td></tr><tr >
+<td style="text-align:center;" class="tr-caption" >Hooking our UPS delivery person, **Mark**, up with a t-shirt.
+</td></tr></tbody></table>  
+It is exactly the kind of company I'd been looking for, and gave up on finding in Boston.  
+  
+I wanted to work on something consumer-facing, not B2B like the last job.  
+  
+I wanted something I myself would use, as would my friends and family, in order to have a more emotional connection to the product.  
+  
+But I also wanted it to have a huge addressable market, measured in billions of people, so not something that would appeal *only* to my family and close friends.  
+  
+I wanted something where the mobile user experience is either the entire user experience or at least the main one, because mobile tech has changed our lives more than anything else in the past several years.  
+  
+But most importantly, I wanted something with a purpose beyond making money. I want to make the world a slightly better place somehow. I'm still a pragmatic capitalist, don't get me wrong. And I volunteer and do other "pay it forward" activities on a regular basis. But I would love for my job to somehow improve people's lives.  
+  
+With Happier, that's all present. It's a purpose-driven startup based on a lot of scientific research into human psychology and related behaviors. We all have things that make us happier, and most of us don't do enough of them. Can this product help? Can we put more smiles on more people's faces? I'd love to try.  
+  
+If you know me back from grad school days, you know I geek out on organizational and behavioral psychology, ever since I got into **[Dan Ariely](http://danariely.com/) **and** [Tal Ben Shahar](http://www.talbenshahar.com/)**'s work, _[Nudge](http://en.wikipedia.org/wiki/Nudge_(book))_, and related research. All of these play a role in this company.  
+  
+If you only know me more recently, you know I'm an experiential person, seeking adventures, experiences, adrenaline, and actively pursuing my own happiness. Not only that, but I generally encourage, recruit, and push my friends + colleagues to do the same.  
+  
+Nataly and I clicked right away. We were finishing each other's sentences the first time we met. We both overuse the word "awesome."  
+  
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" ><tbody ><tr >
+<td style="text-align:center;" >[![](https://yoavshapira.files.wordpress.com/2012/11/bac82-77822_299861643456672_420764243_o.jpg?w=300)](https://yoavshapira.files.wordpress.com/2012/11/bac82-77822_299861643456672_420764243_o.jpg)
+</td></tr><tr >
+<td style="text-align:center;" class="tr-caption" >Halloween "Happier Hour," soon to be an open-to-the-public event.
+</td></tr></tbody></table>  
+Even better, I love the rest of the founding team too. **Colin**, **Ian**, **Sarah**, and **Andrew** are all great. My good friend **Parker** has been helping us out, too, and I've worked with him before. I love the loft-style office, which is in the [Fort Point](http://en.wikipedia.org/wiki/Fort_Point,_Boston) area of Boston, near South Station.  
+  
+I enjoyed talking with the main investors, and share their mindset / approach to the business. It's been a pleasure working with everyone since I got back from my October trip to Israel.  
+  
+I'm happy to be working on a West Coast-style startup here in Boston. The city has many strengths, but not a lot of this type of company. Bostonians and our investors often demand an obvious and quick-ish path to revenue, which is a perfectly good, valid, and legitimate business (or investment) approach. I'd love to see a few more "pie in the sky" companies in town, though.  
+  
+What about my family? As always, they are fully understanding, supportive, and generally amazing. I'll continue to spend time with them during trips to Israel.  
+  
+Like all startups, Happier carries a high degree of risk, but that doesn't bother me at all. I have faith.  
+  
+I'm excited to be working with this team towards our vision, which will be spelled out everywhere in more detail as we crank towards an app you can grab from the App Store.  
+  
+Until then, if you want a preview via our beta program, let me know.  
+  
+One last thing: I chatted about the company with, and got valuable feedback, from several friends in the Boston area, some of whom happen to be among the best, and busiest, business, technology, and product people / investors in the world. Thanks, everyone, for your help.  
+  
+What makes you happier?  
+  
+

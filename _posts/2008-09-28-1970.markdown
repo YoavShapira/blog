@@ -1,0 +1,12 @@
+---
+author: yoavshapira
+comments: true
+date: 2008-09-28 02:53:00+00:00
+layout: post
+link: http://blog.yoavshapira.com/2008/09/27/1970/
+slug: '1970'
+title: No Content Found
+wordpress_id: 1970
+---
+
+testing ping.fm inspired by @mvolpe

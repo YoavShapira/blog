@@ -1,0 +1,152 @@
+---
+author: yoavshapira
+comments: true
+date: 2012-05-24 00:45:00+00:00
+layout: post
+link: http://blog.yoavshapira.com/2012/05/23/rtw2012-ticketing/
+slug: rtw2012-ticketing
+title: '#rtw2012: ticketing'
+wordpress_id: 1049
+categories:
+- Blogger
+---
+
+Background: I'm going on a round-the-world (RTW) trip this summer.  This is one of a [series](http://yoavs.blogspot.com/search/label/rtw2012) of blog posts providing additional details.  This particular blog post talks about the initial ticket purchase.  
+  
+These posts tend to be very long and detailed.  RTW planners, geeks, and insomniacs might find them fun, though.  I'm writing out details for the benefit of my own memories years from now, as well as the many curious friends and family who've requested all the details.  
+  
+
+
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" ><tbody ><tr >
+<td style="text-align:center;" >[![Est Berlin, Ostkreuz station - Berlin (Germany)](http://farm3.staticflickr.com/2184/2358818265_848ed0c268.jpg)](http://www.flickr.com/photos/alighieridante/2358818265/)
+</td></tr><tr >
+<td style="text-align:center;" class="tr-caption" >Berlin
+</td></tr></tbody></table>
+
+I thought the [Wikitravel RTW page](http://wikitravel.org/en/Round_the_world_flights#b) was very very useful.  I'd probably start there.  
+
+
+  
+
+
+I also read a couple of sites like [http://www.roundtheworldticket.com/](http://www.roundtheworldticket.com/), which is not bad.  They are also agents who can book your tickets, but I didn't actually use an agent.  (I have a general issue with agents, aka the [principal-agency problem](http://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem), but that's not on topic.)  
+  
+All the usual travel forums, e.g. [Lonely Planet](http://www.lonelyplanet.com/thorntree/index.jspa)'s, also have helpful tips on RTW trip planning.  
+  
+No single airline covers the whole globe, so you pretty much have to use one of the major alliances: [Star Alliance](http://www.staralliance.com/en/fares/round-the-world-fare/), [OneWorld](http://www.oneworld.com/flights/round-the-world-fares/), and [SkyTeam](http://www.skyteam.com/your-trip/Round-the-World-Planner/) all have online RTW trip planning tools.  
+  
+The apps are a little slow, and at least 2 (if not all 3) use the same back-end, which is Flash-heavy.  But according to the forums, especially if you look a few years back, today's state is a vast improvement over the past, when you had to talk with an agent for hours, so that's a win.  
+  
+
+
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" ><tbody ><tr >
+<td style="text-align:center;" >[![Bangkok](http://farm7.staticflickr.com/6127/6038826595_1ba1a6b612.jpg)](http://www.flickr.com/photos/mr_wood/6038826595/)
+</td></tr><tr >
+<td style="text-align:center;" class="tr-caption" >Bangkok
+</td></tr></tbody></table>
+
+After a few days of occasionally playing around with the planners between work-related meetings, I realized I was stuck in "[analysis paralysis](http://www.skyteam.com/your-trip/Round-the-World-Planner/)" mode.  There were too many places I wanted to go, so I had to somehow systematically narrow it down.  
+  
+I slept on it for a couple of nights, before deciding I was going to make this trip about seeing a number of large cities and sites I'd always wanted to visit.  That ruled out a variety of other themes, such as long backpacking or hiking, extended sporting trips, and related destinations, and that helped a lot.   
+  
+I also looked ahead a year or two to see what trips I was likely to make in that time.  I have an Everest base camp hiking trip likely in 2013, and a Brazil trip likely in 2014, so those two destinations were off the list as well.  
+  
+Finally, I asked myself what trips I'd want to do with someone else (e.g. a girlfriend), and given that I'm traveling by myself, what does that mean?   
+  
+
+
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" ><tbody ><tr >
+<td style="text-align:center;" >[![Sakura light-up at Chidoriga-fuchi in Tokyo 千鳥ヶ淵](http://farm4.staticflickr.com/3329/3417949907_57ebd4b630.jpg)](http://www.flickr.com/photos/marufish/3417949907/)
+</td></tr><tr >
+<td style="text-align:center;" class="tr-caption" >Tokyo
+</td></tr></tbody></table>
+
+That's how I ended up at the "[degustation](http://en.wikipedia.org/wiki/Degustation)" or "[tasting menu](http://en.wikipedia.org/wiki/Tasting_menu)" theme.  It's a bunch of big cities with a few days in each.  It's a mix of common tourist sites, but also getting off the beaten paths with a bunch of local activities, local sports, some volunteering, clubbing, nightlife, and more.  
+  
+With that in mind, I went back to the planning tools, this time booking blocks of 1-2 hours to work with them.  Planning was much easier now.  
+  
+The RTW tickets have some common restrictions: maximum one year (not an issue for me), minimum and maximum stayovers at each place (not an issue for me), crossing each ocean once (a little annoying, but not terrible), starting and ending at the same continent (no big deal), maximum mileage (turned out to not be a big deal), and maximum segments or flights you can have (ended up being the limiting ingredient for me).  
+  
+I ran into the max segments problem again and again.  Overland segments count, i.e. if you do a portion of the trip by train (as I will) or boat (not for me this trip), it counts the same as if you took a flight.  I think that kind of sucks, but what can you do?  
+  
+
+
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" ><tbody ><tr >
+<td style="text-align:center;" >[![Boating into the Stockholm sunrise](http://farm4.staticflickr.com/3003/2931013045_a7b4bcf746.jpg)](http://www.flickr.com/photos/question_everything/2931013045/)
+</td></tr><tr >
+<td style="text-align:center;" class="tr-caption" >Stockholm
+</td></tr></tbody></table>
+
+There is one hack I found helpful, which is to use one city as a "base" or "hub" for a little while, and either fly or train ride around it, then get back to it for the next flight.  You do these flights or train rides (or boats, if you wish, or cars, or hikes, whatever) outside the RTW ticket.  That means you pay for them separately, but if you really want to see some place, it might be the most cost-effective way.  
+  
+For example, I'm flying to Moscow, then going to St. Petersburg in Russia not on the RTW ticket ([Sapsan train](http://en.wikipedia.org/wiki/Sapsan) in fact), coming back, and flying from Moscow to my next RTW destination.  
+  
+Similarly, I'm flying into Berlin, then taking a train to Prague.  And from Bangkok to Angkor Wat (Siem Riep in Cambodia), also not on the RTW ticket.   
+  
+This way you can add destinations in a relatively flexible and cost-effective manner.  
+  
+
+
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" ><tbody ><tr >
+<td style="text-align:center;" >[![Reykjavík, Iceland](http://farm8.staticflickr.com/7215/6889435360_1f519773a9.jpg)](http://www.flickr.com/photos/morkafr/6889435360/)
+</td></tr><tr >
+<td style="text-align:center;" class="tr-caption" >Reykjavik
+</td></tr></tbody></table>
+
+The other thing about the RTW tickets is that once you have a valid (theoretically anyways) itinerary, you need to pick your specific flights.  You get a cost estimate right before you pick flights, and then a more accurate cost after you pick flights.  
+  
+Picking flights is done right there within the planning tool, which is nice.  But it requires you to select specific dates for each flight, i.e. each stop on your trip.  That's a little intimidating, as it brings an element of reality to the trip, which until this point was kind of like playing around in a virtual world.  
+  
+You don't need to worry too much about the dates, as you can modify them later, including during your trip, without incurring change fees (in most cases).  This is different from routing changes, i.e. you want different stops, which do incur change fees (in most cases).  
+  
+This step requires a lot of research, beyond the initial "I want to visit countries X, Y, and Z," because this is when you need to get a feeling for how long you need in each city or country.  For example, how much time did I want in Tokyo?  Bangkok?  Delhi?  This is not a trivial question, and I'll get into it in a future post.  
+  
+It's also helpful to have a designated "buffer," destination.  This is a place where you can spend more or less time if needed, ideally without paying a ton of money, since it gives you flexibility in your trip.  For me, that place is Israel, where I visit my family, and it falls roughly in the middle of my trip.  (Which is not ideal: you often want the buffer close to the end of the trip.)  
+  
+It's worth noting that most airlines will automatically cancel the rest of your ticket if you don't show up to one leg of the trip, so you best make those flights.  
+  
+Finally, after you pick flights, the planner tool re-validates everything, and asks for your information: name, address, passport, frequent flyer numbers, and credit card to book the trip.  That's a scary moment  because it's a big fee, and because it's very real :)  
+  
+
+
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" ><tbody ><tr >
+<td style="text-align:center;" >[![Istanbul'da](http://farm1.staticflickr.com/15/69576365_203cb66219.jpg)](http://www.flickr.com/photos/redenclave/69576365/)
+</td></tr><tr >
+<td style="text-align:center;" class="tr-caption" >Istanbul
+</td></tr></tbody></table>
+
+For the curious, RTW tickets have a really wide range in costs.  Mine ended up being almost $8,000, which is not cheap, but not expensive when you consider many of my destinations (e.g. Bangkok or Tokyo) easily cost $2,500 to reach by themselves, and I'm going literally around the world with dozens of stops.  
+  
+Unfortunately when I tried to actually book my ticket, i.e. pay and confirm, the system had an error.  I thought it was a transient error, so I tried again later that day and the next day, but no luck.  I ended up calling the Star Alliance international reservations line, which I hadn't done in years, and booking the ticket there.  
+  
+Thankfully they could pull up my itinerary with all the details based on the online planning tool itinerary ID, so I didn't have to manually tell the agent everything.  
+  
+And later that day, I got the "standard" airline reservation confirmation email.  Those are always exciting, but this one particularly so, since it's so long, with so many stops.  
+  
+
+
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" ><tbody ><tr >
+<td style="text-align:center;" >[![moscow - e all'improvviso, spunta s.basilio](http://farm3.staticflickr.com/2055/2101859838_5fa93f0fb2.jpg)](http://www.flickr.com/photos/miss_ohara/2101859838/)
+</td></tr><tr >
+<td style="text-align:center;" class="tr-caption" >Moscow
+</td></tr></tbody></table>
+
+Which of the three major alliances you should go with depends on your destinations.  The Wikitravel page linked above has more guidelines, e.g. if you spend a lot of time in southeast Asia (as I am), X might be better than Y, whereas in Latin America, Y might be better than X, or whatever.  
+  
+I ended up going with Star Alliance.  Even so, you need a "carrier of record," I'm not sure why, and the system auto-picked Lufthansa for me.  Accordingly, it's the Lufthansa international reservations center that emailed me my details, and that's whom I'd call for changes.  
+  
+That email also had a link, as they usually do, for an online view of the itinerary.  The next day I could see it online and select seats for most of my flights, which I did.  
+  
+I use Kayak to manage most of my trips, and I love their [My Trips](https://www.kayak.com/trips) feature.  I forwarded the whole lengthy itinerary to them, to see if they could handle it, and they could.  Kudos, Kayak.  
+  
+However, I quickly found out that this trip exceeds some features in Kayak's My Trips feature set, so I've gone to other tools for detailed planning.  More on that in future posts.  
+  
+At this point I had a confirmed, purchased RTW ticket in my hand, with specific flights and dates, and I was super-excited.  
+  
+
+
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" ><tbody ><tr >
+<td style="text-align:center;" >[![San Francisco Flyby](http://farm1.staticflickr.com/130/421758680_bf2681bf29.jpg)](http://www.flickr.com/photos/stuckincustoms/421758680/)
+</td></tr><tr >
+<td style="text-align:center;" class="tr-caption" >San Francisco
+</td></tr></tbody></table>
